@@ -1,0 +1,20 @@
+/* dark blue = #27435E - rgb(39,67,94) */
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	color: rgb(252, 255, 198);
+}
+
+a {
+	color: rgb(143, 0, 0);
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+}
